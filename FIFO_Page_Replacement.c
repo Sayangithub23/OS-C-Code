@@ -48,4 +48,4 @@ int main() {
 
     printf("\nTotal Page Faults: %d\n", page_faults);
     return 0;
-}
+}
